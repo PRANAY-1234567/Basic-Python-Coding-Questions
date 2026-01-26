@@ -70,7 +70,6 @@ Engineering / Science students
 Anyone starting programming
 
 📚 Requirements
-
 Python 3.x
 
 Basic understanding of programming concepts
