@@ -44,29 +44,21 @@ Find factorial of a number
 Install Python (version 3.x recommended)
 
 Clone the repository or download the files
-
 Open terminal or command prompt
-
 Run the program using:
-
 python filename.py
 
 🎯 Purpose
 
 Practice Python basics
-
 Improve logical thinking
-
 Prepare for interviews, exams, and placements
-
 Build confidence in coding
 
 🧑‍💻 Who Can Use This?
 
 Beginners in Python
-
 Engineering / Science students
-
 Anyone starting programming
 
 📚 Requirements
