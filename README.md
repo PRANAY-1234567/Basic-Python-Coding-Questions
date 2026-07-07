@@ -6,19 +6,12 @@ It is designed for beginners who want to learn Python fundamentals through simpl
 📌 Topics Covered
 
 Variables and Data Types
-
 Input and Output
-
 Conditional Statements (if-else)
-
 Loops (for, while)
-
 Functions
-
 Basic String Operations
-
 Lists and Tuples
-
 Simple Math Problems
 
 🧠 Sample Questions
