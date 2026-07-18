@@ -35,7 +35,6 @@ Find factorial of a number
 ▶️ How to Run the Code
 
 Install Python (version 3.x recommended)
-
 Clone the repository or download the files
 Open terminal or command prompt
 Run the program using:
